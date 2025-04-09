@@ -49,7 +49,7 @@
    Перейдите в директорию проекта:
 
    ```bash
-   cd custom-arraylist
+   cd arrays-homework
    ```
 
 ## Установка зависимостей
